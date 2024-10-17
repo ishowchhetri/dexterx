@@ -1,7 +1,7 @@
 import telebot
 import requests
 
-token = "7519672194:AAEiBXdvy_D4mNLQrUhGkEAttmowetGHhRs"
+token = "7528037135:AAEfZDGBu18Wk_hzJdC-Ftry6BFCGOyGLJ0"
 bot = telebot.TeleBot(token, parse_mode="HTML")
 
 def hit(amt, cc, gate, key, username, chat_id):
