@@ -9,7 +9,7 @@ import telebot
 from telebot import types
 
 sto = {"stop": False}
-token = "7528037135:AAEfZDGBu18Wk_hzJdC-Ftry6BFCGOyGLJ0"
+token = "7639975944:AAF5AjRRADjSMX1TgtNcwuBjc7UrUTzRE1w"
 admin_id = 6452705867  # Admin ID
 authorized_users = [admin_id]  # Initially only the admin is authorized
 bot = telebot.TeleBot(token, parse_mode="HTML")
